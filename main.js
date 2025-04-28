@@ -52,7 +52,7 @@ async function fetchDishes() {
     } catch (error) {
         console.error('Error fetching dishes:', error);
         
-    }
+    }sdfgsdfg
 }
 
 fetchDishes();
